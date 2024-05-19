@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BABL_TaskManager</string>
+    <string name="user_name">User Name</string>
+    <string name="email_example">example@gmail.com</string>
+    <string name="add_todo_button">Add Todo Button</string>
+    <string name="title">Title</string>
+    <string name="edit_todo_button">Edit Todo Button</string>
+    <string name="task_details">Task Details</string>
+    <string name="description">Description</string>
+    <string name="is_completed">Is Completed</string>
+    <string name="add_or_edit_task">Add or Edit Task</string>
+    <string name="status">Status</string>
+    <string name="back_button">Back Button</string>
+</resources>
